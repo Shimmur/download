@@ -24,3 +24,6 @@ erl_crash.dump
 
 # for test
 test100k.db
+
+.idea
+*.iml
